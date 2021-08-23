@@ -1,0 +1,8 @@
+item { 
+	name:'extinguisher'
+	id:1
+}
+item { 
+	name:'abdulrahman'
+	id:2
+}

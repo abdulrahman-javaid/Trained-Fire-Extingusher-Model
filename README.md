@@ -1,14 +1,14 @@
 # Trained-Fire-Extingusher-Model
 
 # installation
-git clone https://github.com/abdulrahman-javaid/Trained-Fire-Extingusher-Model
+`git clone https://github.com/abdulrahman-javaid/Trained-Fire-Extingusher-Model`
 
 # Dawnload dependancies
-pip install uuid
-pip install open-cv
-pip install wget
-pip install numpy
-pip install tensorflow
+`pip install uuid`
+`pip install open-cv`
+`pip install wget`
+`pip install numpy`
+`pip install tensorflow`
 
 # Run the code
 open jupyter notebook and run the main code. 
